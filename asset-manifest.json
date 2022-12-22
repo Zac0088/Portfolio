@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Portfolio/static/js/main.5d2597e5.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5d2597e5.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.6243e19e.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.6243e19e.js.map",
+    "static/css/2.f26e749f.chunk.css": "/Portfolio/static/css/2.f26e749f.chunk.css",
+    "static/js/2.604a9a36.chunk.js": "/Portfolio/static/js/2.604a9a36.chunk.js",
+    "static/js/2.604a9a36.chunk.js.map": "/Portfolio/static/js/2.604a9a36.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/Portfolio/static/css/2.f26e749f.chunk.css.map",
+    "static/js/2.604a9a36.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.604a9a36.chunk.js.LICENSE.txt",
+    "static/media/firstproject.eb95ced6.png": "/Portfolio/static/media/firstproject.eb95ced6.png",
+    "static/media/hero.b11751e3.png": "/Portfolio/static/media/hero.b11751e3.png",
+    "static/media/notetaker.33f8d56d.png": "/Portfolio/static/media/notetaker.33f8d56d.png",
+    "static/media/passwordgen.60b85eb0.png": "/Portfolio/static/media/passwordgen.60b85eb0.png",
+    "static/media/profilepic.a64bedf3.jpg": "/Portfolio/static/media/profilepic.a64bedf3.jpg",
+    "static/media/renters.6d42a929.png": "/Portfolio/static/media/renters.6d42a929.png",
+    "static/media/takemeaway.a5e04d50.png": "/Portfolio/static/media/takemeaway.a5e04d50.png",
+    "static/media/timedquiz.23fda25b.png": "/Portfolio/static/media/timedquiz.23fda25b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6243e19e.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.604a9a36.chunk.js",
+    "static/js/main.5d2597e5.chunk.js"
+  ]
+}
